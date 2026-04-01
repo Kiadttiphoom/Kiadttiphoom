@@ -45,7 +45,7 @@ const developer = {
 
 ---
 
-## 🛠️ Tech & Tools
+## <img width="22" height="22" alt="image_frontend" src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" />  Tech & Tools
 
 ### <img width="22" height="22" alt="image_frontend" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" />  Frontend
 <div align="center">
@@ -95,7 +95,7 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image_tools" src="https://github.com/user-attachments/assets/677e84d2-a240-43ef-b9e1-38aad8b5b54d" />  AI & Dev Tools
+### <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" />  AI & Dev Tools
 <div align="center">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
