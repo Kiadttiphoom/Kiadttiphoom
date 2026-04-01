@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+Java+backends+%F0%9F%9A%80;Crafting+modern+web+experiences+%E2%9C%A8;Clean+Code+%7C+Enterprise+Architecture+%7C+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+Java+backends;Crafting+modern+web+experiences;Clean+Code+%7C+Enterprise+Architecture+%7C+APIs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,26 +16,26 @@
 
 ---
 
-## 🧠 About Me
+## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1995/1995574.png" />  About Me
 
 ```typescript
 const developer = {
   name:       "Kiadttiphoom Bu-iad",
   role:       "Full Stack Developer",
   company:    "Baan Suzuki Co., Ltd.",
-  location:   "Bangkok, Thailand 🇹🇭",
+  location:   "Bangkok, Thailand",
   since:      "April 2023",
 
   focus: [
-    "⚡ Enterprise Java Architecture",
-    "🌐 Modern Web Development",
-    "📡 Scalable REST APIs",
+    "[ lightning ]  Enterprise Java Architecture",
+    "[ globe     ]  Modern Web Development",
+    "[ satellite ]  Scalable REST APIs",
   ],
 
   passions: [
-    "🤖 Exploring AI & LLMs",
-    "🎨 UX/UI Design",
-    "🧹 Clean Code Principles",
+    "[ robot   ]  Exploring AI & LLMs",
+    "[ palette ]  UX/UI Design",
+    "[ broom   ]  Clean Code Principles",
   ],
 
   currentlyLearning: ["Spring Boot 3", "React 19", "Microservices"],
@@ -45,9 +45,9 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" alt="image_frontend" src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" />  Tech & Tools
+## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" />  Tech & Tools
 
-### <img width="22" height="22" alt="image_frontend" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" />  Frontend
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" />  Frontend
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -62,7 +62,7 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image_backend" src="https://github.com/user-attachments/assets/40de29de-846f-4df1-8b4b-3d6396bcaf3d" />  Backend
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/40de29de-846f-4df1-8b4b-3d6396bcaf3d" />  Backend
 <div align="center">
 
 ![Java Servlet](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,7 +74,7 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image_database" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" />  Database
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" />  Database
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -85,7 +85,7 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image_design" src="https://github.com/user-attachments/assets/00ecc2fa-87a5-4989-be1d-f54f88cfdf40" />  Design
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/00ecc2fa-87a5-4989-be1d-f54f88cfdf40" />  Design
 <div align="center">
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -95,7 +95,7 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" />  AI & Dev Tools
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" />  AI & Dev Tools
 <div align="center">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -110,7 +110,7 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" alt="image_stats" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Stats
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" alt="image_graph" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph
 
 <div align="center">
 
@@ -132,7 +132,7 @@ const developer = {
 
 <div align="center">
 
-### <img width="22" height="22" alt="image_quote" src="https://github.com/user-attachments/assets/0f925ab5-8a4e-43eb-9cb1-c62ea5347b4b" />  Random Dev Quote
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/0f925ab5-8a4e-43eb-9cb1-c62ea5347b4b" />  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
