@@ -84,7 +84,7 @@ const developer = {
 
 ---
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fecb0741-4dea-443e-8582-7813e7d81aff" /> Database 
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> Database
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
