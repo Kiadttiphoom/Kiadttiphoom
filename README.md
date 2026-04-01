@@ -21,9 +21,9 @@
 ```typescript
 const developer = {
   name:       "Kiadttiphoom Bu-iad",
-  role:       "Full Stack Developer",
-  company:    "Baan Suzuki Co., Ltd.",
-  location:   "Bangkok, Thailand",
+  role:       "Java Web Developer",
+  company:    "BAN SUZUKI COMPANY LIMITED",
+  location:   "Songkhla, Thailand",
   since:      "April 2023",
 
   focus: [
@@ -38,7 +38,7 @@ const developer = {
     "[ broom   ]  Clean Code Principles",
   ],
 
-  currentlyLearning: ["Spring Boot 3", "React 19", "Microservices"],
+  currentlyLearning: ["Spring Boot", "Microservices"],
   openToWork: false,
 };
 ```
