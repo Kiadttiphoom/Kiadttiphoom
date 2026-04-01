@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Kiadttiphoom Bu-iad
-### Full Stack Developer • Java Specialist • System Architect
+### Full Stack Developer • Java Web Developer 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kiadttiphoombooiad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiattiphoom-bu-aid-7aab923ba/)
