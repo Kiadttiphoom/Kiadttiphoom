@@ -47,29 +47,7 @@ const developer = {
 
 ## 🛠️ Tech & Tools
 
-### ☕ Backend
-<div align="center">
-
-![Java Servlet](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-</div>
-
----
-
-### 🎨 Design
-<div align="center">
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
----
-
-### 🌐 Frontend
+### <img width="22" height="22" alt="image_frontend" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" />  Frontend
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -84,7 +62,19 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" />  Database
+### <img width="22" height="22" alt="image_backend" src="https://github.com/user-attachments/assets/40de29de-846f-4df1-8b4b-3d6396bcaf3d" />  Backend
+<div align="center">
+
+![Java Servlet](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+</div>
+
+---
+
+### <img width="22" height="22" alt="image_database" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" />  Database
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -95,11 +85,22 @@ const developer = {
 
 ---
 
-### 🤖 AI & Dev Tools
+### <img width="22" height="22" alt="image_design" src="https://github.com/user-attachments/assets/00ecc2fa-87a5-4989-be1d-f54f88cfdf40" />  Design
+<div align="center">
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+---
+
+### <img width="22" height="22" alt="image_tools" src="https://github.com/user-attachments/assets/677e84d2-a240-43ef-b9e1-38aad8b5b54d" />  AI & Dev Tools
 <div align="center">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -109,7 +110,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## <img width="22" height="22" alt="image_stats" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Stats
 
 <div align="center">
 
@@ -119,7 +120,7 @@ const developer = {
 
 ---
 
-## 📈 Contribution Graph
+## <img width="22" height="22" alt="image_graph" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph
 
 <div align="center">
 
@@ -131,7 +132,7 @@ const developer = {
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### <img width="22" height="22" alt="image_quote" src="https://github.com/user-attachments/assets/0f925ab5-8a4e-43eb-9cb1-c62ea5347b4b" />  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
