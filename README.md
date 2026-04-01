@@ -133,15 +133,6 @@ const developer = {
 
 <div align="center">
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/0f925ab5-8a4e-43eb-9cb1-c62ea5347b4b" />  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiadttiphoom&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
