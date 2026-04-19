@@ -138,4 +138,20 @@ const developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
+---
+
+<div align="center">
+
+[![Kiadttiphoom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiadttiphoom&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kiadttiphoom&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
 </div>
