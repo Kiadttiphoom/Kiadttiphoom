@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kiadttiphoom%20Bu-iad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kiadttiphoom%20Bu-iad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Solutions%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+Java+backends;Crafting+modern+web+experiences;Clean+Code+%7C+Enterprise+Architecture+%7C+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+Java+backends;Crafting+modern+web+experiences;AI-Driven+Development+%7C+Semantic+SQL+Expert)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,24 +21,24 @@
 ```typescript
 const developer = {
   name:       "Kiadttiphoom Bu-iad",
-  role:       "Java Web Developer",
+  role:       "Java Web Developer & AI Solutions",
   company:    "BAN SUZUKI COMPANY LIMITED",
   location:   "Songkhla, Thailand",
   since:      "April 2023",
 
   focus: [
     "[ lightning ]  Enterprise Java Architecture",
-    "[ globe     ]  Modern Web Development",
+    "[ brain     ]  AI & LLM Integration (Semantic Layer)",
     "[ satellite ]  Scalable REST APIs",
   ],
 
   passions: [
-    "[ robot   ]  Exploring AI & LLMs",
+    "[ robot   ]  Exploring Ollama & Local LLMs",
     "[ palette ]  UX/UI Design",
     "[ broom   ]  Clean Code Principles",
   ],
 
-  currentlyLearning: ["Spring Boot", "Microservices"],
+  currentlyLearning: ["Spring Boot", "AI-Powered SQL Generators", "Qwen 2.5-Coder"],
   openToWork: false,
 };
 ```
@@ -98,11 +98,12 @@ const developer = {
 ### <img width="22" height="22" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" />  AI & Dev Tools
 <div align="center">
 
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen%202.5--Coder-purple?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
