@@ -150,7 +150,7 @@ const developer = {
 <br/>
 
 <!-- Tech Stack Marquee -->
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,nextjs,tailwind,html,css,mysql,supabase,vscode,eclipse,git,github,postman,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,nextjs,tailwind,html,css,mysql,mssql,supabase,vscode,eclipse,git,github,postman&perline=8" />
 
 <br/>
 
