@@ -125,7 +125,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kiadttiphoom&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiadttiphoom&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
