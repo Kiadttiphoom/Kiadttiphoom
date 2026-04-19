@@ -112,21 +112,35 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Stats
+---
+
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Trophies & Stats
 
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kiadttiphoom&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kiadttiphoom&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+<br/>
+
+![Kiadttiphoom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiadttiphoom&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)
 
 </div>
 
 ---
 
-## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph & Snake
 
 <div align="center">
 
 [![Kiadttiphoom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiadttiphoom&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Snake animation](https://github.com/Kiadttiphoom/Kiadttiphoom/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
