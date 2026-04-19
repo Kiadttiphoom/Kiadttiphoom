@@ -32,7 +32,7 @@
 ║  val me = Developer(                                             ║
 ║    name     = "Kiadttiphoom Bu-iad",                             ║
 ║    role     = "Java Web Dev  ×  AI Solutions Engineer",          ║
-║    company  = "Ban Suzuki Co., Ltd. — Songkhla, TH",            ║
+║    company  = "Ban Suzuki Co., Ltd. — Songkhla, TH",             ║
 ║    since    = "April 2023",                                      ║
 ║                                                                  ║
 ║    stack    = listOf(                                            ║
