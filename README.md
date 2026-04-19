@@ -16,15 +16,15 @@
 
 ---
 
-## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1995/1995574.png" />  About Me
+## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1995/1995574.png" /> About Me
 
 ```typescript
 const developer = {
-  name:       "Kiadttiphoom Bu-iad",
-  role:       "Java Web Developer & AI Solutions",
-  company:    "BAN SUZUKI COMPANY LIMITED",
-  location:   "Songkhla, Thailand",
-  since:      "April 2023",
+  name: "Kiadttiphoom Bu-iad",
+  role: "Java Web Developer & AI Solutions",
+  company: "BAN SUZUKI COMPANY LIMITED",
+  location: "Songkhla, Thailand",
+  since: "April 2023",
 
   focus: [
     "[ lightning ]  Enterprise Java Architecture",
@@ -38,16 +38,21 @@ const developer = {
     "[ broom   ]  Clean Code Principles",
   ],
 
-  currentlyLearning: ["Spring Boot", "AI-Powered SQL Generators", "Qwen 2.5-Coder"],
+  currentlyLearning: [
+    "Spring Boot",
+    "AI-Powered SQL Generators",
+    "Qwen 2.5-Coder",
+  ],
   openToWork: false,
 };
 ```
 
 ---
 
-## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" />  Tech & Tools
+## <img width="22" height="22" src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" /> Tech & Tools
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" />  Frontend
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/11d22ad7-5550-4fc9-ac44-d48c0ff876ef" /> Frontend
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -62,7 +67,8 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/40de29de-846f-4df1-8b4b-3d6396bcaf3d" />  Backend
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/40de29de-846f-4df1-8b4b-3d6396bcaf3d" /> Backend
+
 <div align="center">
 
 ![Java Servlet](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,7 +80,8 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" />  Database
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/c90f1870-2e03-4596-84ad-6c1245d540a7" /> Database
+
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -85,7 +92,8 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/00ecc2fa-87a5-4989-be1d-f54f88cfdf40" />  Design
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/00ecc2fa-87a5-4989-be1d-f54f88cfdf40" /> Design
+
 <div align="center">
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -95,7 +103,8 @@ const developer = {
 
 ---
 
-### <img width="22" height="22" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" />  AI & Dev Tools
+### <img width="22" height="22" src="https://github.com/user-attachments/assets/df724ec4-d560-42df-a5b8-7e2ec11409f9" /> AI & Dev Tools
+
 <div align="center">
 
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
@@ -112,13 +121,11 @@ const developer = {
 
 ---
 
----
-
-## <img width="22" height="22" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" />  GitHub Trophies & Stats
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/8d7d2694-efc9-4417-848c-bc392b7bf545" /> GitHub Trophies & Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kiadttiphoom&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kiadttiphoom&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -132,7 +139,7 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" />  Contribution Graph & Snake
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" /> Contribution Graph & Snake
 
 <div align="center">
 
