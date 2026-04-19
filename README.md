@@ -139,7 +139,9 @@ const developer = {
 
 ---
 
-## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" /> Contribution Graph & Snake
+---
+
+## <img width="22" height="22" src="https://github.com/user-attachments/assets/7d69eedf-0c9d-4e4b-8677-e446d29039c1" /> Activity & Tech Stack
 
 <div align="center">
 
@@ -147,7 +149,12 @@ const developer = {
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Kiadttiphoom/Kiadttiphoom/output/github-contribution-grid-snake.svg)
+<!-- Tech Stack Marquee -->
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,nextjs,tailwind,html,css,mysql,mssql,supabase,vscode,eclipse,git,github,postman&perline=8" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Innovative+AI+Solutions;Enterprise+Java+Applications;Full-Stack+Excellence" />
 
 </div>
 
